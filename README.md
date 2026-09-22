@@ -2,7 +2,7 @@
 
 Пишу небольшие утилиты и программы под Windows — в основном с помощью ИИ, но довожу до рабочего состояния руками.
 
-**Стек:** Python · C# / WPF · tkinter / CustomTkinter · diskpart / PowerShell · Telegram-боты · железо (термопринтеры, BLE)
+**Стек:** Python · C# / WPF · tkinter / CustomTkinter · diskpart / PowerShell · железо (термопринтеры, BLE)
 
 **Проекты:**
 - [USB Formatter](https://github.com/SaymonRen-ui/usb-formatter) — форматирование флешек в один клик, тома, MBR/GPT, темы (Python)
