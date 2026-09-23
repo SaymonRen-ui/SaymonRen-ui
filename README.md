@@ -2,7 +2,7 @@
 
 Пишу небольшие утилиты и программы под Windows — в основном с помощью ИИ, но довожу до рабочего состояния руками.
 
-**Стек:** Python · C# / WPF · tkinter / CustomTkinter · diskpart / PowerShell · железо (термопринтеры, BLE)
+**Стек:** Python · C# / WPF · tkinter / CustomTkinter · Telegram-боты (aiogram) · diskpart / PowerShell · железо (термопринтеры, BLE)
 
 **Проекты:**
 - [USB Formatter](https://github.com/SaymonRen-ui/usb-formatter) — форматирование флешек в один клик, тома, MBR/GPT, темы (Python)
@@ -10,5 +10,6 @@
 - [EtherScope](https://github.com/SaymonRen-ui/etherscope) — анализатор Wi-Fi / Bluetooth / BLE: сканы сетей и устройств, BLE Lab, BLE Proxy-мост, экспорт CSV/JSON (Python / CustomTkinter)
 - [CatPrint](https://github.com/SaymonRen-ui/catprint) + [CatPrint Android](https://github.com/SaymonRen-ui/catprint-android) — печать на термопринтере MXW01 по BLE: редактор документов .catdoc, QR, дизеринги (C# / WPF + Kotlin / Compose)
 - [BCleaner](https://github.com/SaymonRen-ui/bcleaner) — чистильщик Windows: удаление программ с поиском остатков, чистка мусора, анализ диска (Python / CustomTkinter)
+- [CbzBot](https://github.com/SaymonRen-ui/cbz-bot) — телеграм-бот: кидаешь PDF, получаешь .cbz для читалки (Python / aiogram)
 
 Сейчас качаюсь во фрилансе: мелкие утилиты, автоматизация рутины, конвертеры файлов.
