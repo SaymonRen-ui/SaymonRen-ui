@@ -9,5 +9,6 @@
 - [PDF2CBZ](https://github.com/SaymonRen-ui/pdf2cbz) — конвертер PDF в CBZ для читалок манги, пакетная конвертация, ETA (C# / WPF)
 - [EtherScope](https://github.com/SaymonRen-ui/etherscope) — анализатор Wi-Fi / Bluetooth / BLE: сканы сетей и устройств, BLE Lab, BLE Proxy-мост, экспорт CSV/JSON (Python / CustomTkinter)
 - [CatPrint](https://github.com/SaymonRen-ui/catprint) + [CatPrint Android](https://github.com/SaymonRen-ui/catprint-android) — печать на термопринтере MXW01 по BLE: редактор документов .catdoc, QR, дизеринги (C# / WPF + Kotlin / Compose)
+- [BCleaner](https://github.com/SaymonRen-ui/bcleaner) — чистильщик Windows: удаление программ с поиском остатков, чистка мусора, анализ диска (Python / CustomTkinter)
 
 Сейчас качаюсь во фрилансе: мелкие утилиты, автоматизация рутины, конвертеры файлов.
